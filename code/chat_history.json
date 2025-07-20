@@ -1,0 +1,42 @@
+[
+  {
+    "user": "whats the time in india",
+    "bot": "Hi there! Welcome to VOX Cinemas UAE.\n\nHow can I help you today?"
+  },
+  {
+    "user": "what are the movies avaiaalbe in deira city centre",
+    "bot": "At City Centre Deira, we are currently showing the following movies:\n\nSuperman.\n\nThis is a Science Fiction, Adventure, and Action film.\n\nIt is available in MAX, GOLD, and Standard formats.\n\n\nDheeran.\n\nThis is a Drama film.\n\nIt is playing in Standard format.\n\n\nSaiyaara.\n\nThis is a Romance and Drama film.\n\nIt is available in Standard format.\n\n\nSitaare Zameen Par.\n\nThis is a Comedy and Drama film.\n\nIt is showing in Standard format."
+  },
+  {
+    "user": "show me all the movies available in city centre sharjah",
+    "bot": "At City Centre Sharjah, we currently have the following movies:\n\nSaiyaara\n\nSuperman"
+  },
+  {
+    "user": "hi",
+    "bot": "Hi there! Welcome to VOX Cinemas UAE. How can I help you today?"
+  },
+  {
+    "user": "whats the time in kochi",
+    "bot": "Hi there! Welcome to VOX Cinemas UAE. How can I help you today?"
+  },
+  {
+    "user": "all the movies in sharjah city centre",
+    "bot": "At City Centre Sharjah, we are currently showing these movies:\n\n🎬 Saiyaara (PG15, Hindi)\n• Showtime 1: Book Now: https://uae.voxcinemas.com/booking/0035-155987\n• Showtime 2: Book Now: https://uae.voxcinemas.com/booking/0035-155914\n• Showtime 3: Book Now: https://uae.voxcinemas.com/booking/0035-155986\n• Showtime 4: Book Now: https://uae.voxcinemas.com/booking/0035-155911\n• Showtime 5: Book Now: https://uae.voxcinemas.com/booking/0035-155985\n• Showtime 6: Book Now: https://uae.voxcinemas.com/booking/0035-155912\n\n🎬 Superman (PG15, English, Arabic)\n• Showtime 1: Book Now: https://uae.voxcinemas.com/booking/0035-155659\n• Showtime 2: Book Now: https://uae.voxcinemas.com/booking/0035-155982\n• Showtime 3: Book Now: https://uae.voxcinemas.com/booking/0035-155661\n• Showtime 4: Book Now: https://uae.voxcinemas.com/booking/0035-155984\n• Showtime 5: Book Now: https://uae.voxcinemas.com/booking/0035-155989\n\nTo book your tickets, simply click on the \"Book Now\" link next to your preferred movie and showtime.  You will then be guided through the booking process on the VOX Cinemas website."
+  },
+  {
+    "user": "i want to see comedy",
+    "bot": "Based on your preference for comedy, I recommend checking out \"Metro... In Dino\".\n\n🎬 Metro... In Dino (PG15, Hindi, 160 min)\nThis is a Drama, Romance, and Comedy film.\n\nIt is currently playing at MEGAPLEX (Cineplex Grand Hyatt) in Standard format.\n\n• Showtime 1: 2:15pm Book Now: https://uae.voxcinemas.com/booking/0015-230941\n• Showtime 2: 3:30pm Book Now: https://uae.voxcinemas.com/booking/0015-230927\n• Showtime 3: 5:45pm Book Now: https://uae.voxcinemas.com/booking/0015-230866\n• Showtime 4: 7:00pm Book Now: https://uae.voxcinemas.com/booking/0015-230940\n• Showtime 5: 10:15pm Book Now: https://uae.voxcinemas.com/booking/0015-230690\n\nTo book your tickets, click on the \"Book Now\" link for your preferred showtime."
+  },
+  {
+    "user": "all comedy movies",
+    "bot": "I'm sorry, but based on the provided data, there are currently no comedy movies showing at VOX Cinemas in the UAE.  The listed films are primarily action, science fiction, drama, romance, and adventure.  I would suggest checking back later or browsing the official VOX Cinemas website for updated movie listings as new films are released."
+  },
+  {
+    "user": "all romance movies",
+    "bot": "Currently, we are showing \"Saiyaara,\" a Romance and Drama film, at several locations:\n\n\n🎬 Saiyaara (PG15, Hindi)\n• City Centre Shindagha:\n    * 3:00 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141902\n    * 4:15 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141789\n    * 6:00 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141909\n    * 7:30 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141790\n    * 8:15 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141888\n    * 8:45 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141903\n    * 10:45 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141791\n    * 11:30 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141901\n    * 11:59 PM: Book Now: https://uae.voxcinemas.com/booking/0017-141913\n\n• MEGAPLEX (Cineplex Grand Hyatt):\n    * 3:10 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230870\n    * 4:05 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230865\n    * 5:30 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230939\n    * 6:30 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230867\n    * 7:25 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230651\n    * 9:00 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230933\n    * 9:45 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230660\n    * 10:45 PM: Book Now: https://uae.voxcinemas.com/booking/0015-230868\n\n• City Centre Deira:\n    * 3:15 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605701\n    * 4:15 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605705\n    * 5:15 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605710\n    * 6:30 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605702\n    * 7:30 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605706\n    * 8:30 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605711\n    * 9:45 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605703\n    * 10:20 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605977\n    * 10:45 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605707\n    * 11:59 PM: Book Now: https://uae.voxcinemas.com/booking/0001-605804\n\n• Wafi Mall at Wafi City:\n    * 2:30 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114583\n    * 4:00 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114620\n    * 5:45 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114597\n    * 7:00 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114055\n    * 8:15 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114596\n    * 10:15 PM: Book Now: https://uae.voxcinemas.com/booking/0057-114562\n\n• City Centre Sharjah:\n    * 4:00 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155987\n    * 5:00 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155914\n    * 7:20 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155986\n    * 8:20 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155911\n    * 10:35 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155985\n    * 11:35 PM: Book Now: https://uae.voxcinemas.com/booking/0035-155912\n\nTo book, simply click the \"Book Now\" link."
+  },
+  {
+    "user": "whos acting in saiyaara",
+    "bot": "Saiyaara stars Ahaan Panday, Aneet Padda, and Varun Badola."
+  }
+]
